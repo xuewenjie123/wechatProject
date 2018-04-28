@@ -1,0 +1,5 @@
+<!-- item.wxml -->
+<template name="item">
+  <text>{{text}}</text>
+  <view hidden="{{isShow}}">我不现实，我先付定金双方还将实施</view>
+</template>
